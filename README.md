@@ -6,13 +6,18 @@
 ![GitHub followers](https://img.shields.io/github/followers/adammiltonbarker?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/adammiltonbarkr?label=Follow)
 [![Linkedin: anmol](https://img.shields.io/badge/-adammiltonbarker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/adammiltonbarker/)](https://www.linkedin.com/adammiltonbarker/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adammiltonbarker)
 
 I am a professional freelancer & Intel Software Innovator with 16+ years experience in web development, business administration systems, social media marketing, Facebook applications, the Internet of Things, Artificial Intelligence and more recently Virtual/Mixed Reality & Blockchain technologies.
 
 I enjoy creating open-source projects for the greater good. Over the last few years I have open-sourced a number of medical orientated projects including cancer detection. I am currently working on two open-source medical projects that are focused on automated hospital management, & patient owned medical records.
 
-[![Adam's github stats](https://github-readme-stats.vercel.app/api?username=adammiltonbarker)](https://github.com/adammiltonbarker)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adammiltonbarker&hide=TeX&layout=compact)
+  <a href="https://github-readme-stats.vercel.app/api?username=adammiltonbarker" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=adammiltonbarker&show_icons=true">
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=adammiltonbarker">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adammiltonbarker&hide=TeX&layout=compact" />
+  </a>
 
 I began utilizing Artificial Intelligence for cancer detection in 2018 with Breast Cancer AI before creating the Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project when my grandfather was diagnosed with AML in late 2018.
 
