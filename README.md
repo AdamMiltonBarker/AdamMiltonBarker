@@ -12,6 +12,7 @@ I am a professional freelancer & Intel Software Innovator with 16+ years experie
 I enjoy creating open-source projects for the greater good. Over the last few years I have open-sourced a number of medical orientated projects including cancer detection. I am currently working on two open-source medical projects that are focused on automated hospital management, & patient owned medical records.
 
 [![Adam's github stats](https://github-readme-stats.vercel.app/api?username=adammiltonbarker)](https://github.com/adammiltonbarker)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adammiltonbarker&hide=TeX&layout=compact)
 
 I began utilizing Artificial Intelligence for cancer detection in 2018 with Breast Cancer AI before creating the Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project when my grandfather was diagnosed with AML in late 2018.
 
